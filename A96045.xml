@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Right Honourable Robert Earle of VVarwicke, Lord High-admirall of England: to the speaker of the House of Peeres. VVith an exact diurnall of all the most speciall and remarkable passages which have hapned during the siege of Lyme in Dorsetshire by Pr. Maurice his forces, from the 21 of February to this present. Die Jovis, 10 Junii, 1644. Ordered by the Lords assembled in Parliament, that the L. Admirals letter, with the diurnall concerning Lime be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+            <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96045</idno><idno type="EEBO-CITATION">99872954</idno>
+  <idno type="VID">155162</idno>
+  <idno type="EEBO-PROQUEST">2240943277</idno>
+  
+            <idno type="STC">Wing W1000</idno>
+            <idno type="STC">Thomason E50_25</idno>
+            <idno type="STC">ESTC R6193</idno>
+            <idno type="PROQUEST">99872954</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872954e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155162)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E50[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Right Honourable Robert Earle of VVarwicke, Lord High-admirall of England: to the speaker of the House of Peeres. VVith an exact diurnall of all the most speciall and remarkable passages which have hapned during the siege of Lyme in Dorsetshire by Pr. Maurice his forces, from the 21 of February to this present. Die Jovis, 10 Junii, 1644. Ordered by the Lords assembled in Parliament, that the L. Admirals letter, with the diurnall concerning Lime be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>England and Wales. Parliament. House of Lords. aut</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June, 11. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Maurice, --  Prince, 1620-1652 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">Lyme Regis (Dorset) --  Siege, 1644 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155162:1"/>
+            <p>A LETTER FROM THE RIGHT HONOURABLE ROBERT Earle of VVARWICKE, Lord High-admirall of <hi>England:</hi> TO The Speaker of the House of PEERES.</p>
+            <p>VVith an exact Diurnall of all the most speciall and remarkable passages which have hapned during the siege of <hi>Lyme</hi> in <hi>Dorsetshire</hi> by Pr. MAURICE his Forces, from the 21 of <hi>February</hi> to this present.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="Parliamentary_order">
+                        <opener>
+                           <dateline>
+                              <date>Die Jovis, 10 Junii, 1644.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords assembled in Parliament, that the L. Admirals Letter, with the Diurnall concerning Lime be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>J. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, June, 11. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155162:2"/>
+            <pb n="1" facs="tcp:155162:2"/>
+            <head>TO THE Right Honourable my very good Lord, THE SPEAKER OF THE HOUSE OF <hi>PEERES,</hi> these present.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">C</seg>Omming before <hi>Lime Regis</hi> this day seven-night in the morning, I found the Towne under a very streight and close si<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge. The proceedings of the Enemy and of the Townes defence till my com<g ref="char:EOLhyphen"/>ming will be offered to your Lordships knowledge by the enclosed, being a coppy of Colonell <hi>Weres</hi> journall to that time.</p>
+            <p>At my arrivall in the bay, I found the Towne in very great went of victuals and Ammunition, though for their necessary subsistance, Capt. <hi>Somerster</hi> Captaine of the <hi>Mary Rose</hi> (whom I had formerly sent hither for their encouragement, together with Cap. <hi>Iorden</hi> Cap<g ref="char:EOLhyphen"/>taine of the <hi>Expedition,</hi> Cap. <hi>Cocke</hi> Captaine of the <hi>May-Flower,</hi> and Cap. <hi>Iones</hi> Captaine of the <hi>Anne</hi> and <hi>Ioyce</hi>) had spared them out of his ships stores thirty five barrels of Powder, and a good quan<g ref="char:EOLhyphen"/>tity of Bisket and other provisions, besides some victuals delivered
+<pb n="2" facs="tcp:155162:3"/>them out of Cap. <hi>Iorden</hi> and Cap. <hi>Iones.</hi> At my first comming I sent them on shore 38 barrels of Powder, and some proportion of match directed to them from the Committee for the West. I also contracted with a Sandwich man for nere 400 pound worth of corn, Malt, Butter, Cheese, &amp;c. they not having left in the Towne two daies bread. The night before my comming the enemy had burnt neere twenty Barkes belonging to the Towne and some that were left they burnt the night following; the same night Cap. <hi>Pine</hi> was wounded and is since dead. On Satturday last I received a Letter from Captaine <hi>Ceely</hi> the Governour, importing the necessities of the Towne, and praying a supply out of the ships stores, without which they could not longer maintaine the siege. I was fully informed of the gallantry of the defendants, the garrison consisting of about 1100 men, who though they wanted shooes, stockings, clothes and pay, and had been kept on the Line from the beginning of the siege without reliefe, yet were every of them resolved to hold out to the utmost point of time, and when all failed, to make way through the enemy with the Sword. There condition and courage had such operation on the Sea-men of my ship that they did unanimously consent to give them one fourth part of their next foure moneths bread, and to abate it proportionably out of every daies allowance, yet with hopes that the State would make it good again. They did also out of their owne little abilities spare them divers paires of boots, shooes, shockins, clothes, and some victuals, saved out of their former allowance.</p>
+            <p>On munday last I called a Councell of Warre aboard, and upon consultation with one of the Commanders sent from the Councell of War in <hi>Lyme,</hi> we resolved to spare them out of the ships twenty thousand waight of bread, besides the sea-mens seven thousand, a hogshed of Beefe, a hogshed of Porke, some shot, whereof part was sent on shore that day. The same day I received a Letter from the Commanders in Lime, desiring that some of the Sea-men might be sent to guard their Line, while others of their garrison sallied upon the enemy, and by our Councell of Warre we resolved to spare them 300 men. But instead of giving a salley the Towne received a storm<g ref="char:EOLhyphen"/>ing that day from the enemy, at which time there were about 60. of the enemy, and but 8 of the Towne slaine, and a few wounded, a<g ref="char:EOLhyphen"/>mongst whom Col. <hi>Were</hi> was shot in the belly, (but not mortally)
+<pb n="3" facs="tcp:155162:3"/>and Lieutenant Colonell <hi>Blake</hi> had a slight hurt in his foote. Three Captaines were appointed to leade the forlorne hope, of which Captaine <hi>Southerne</hi> (who had on the Lord <hi>Paulets</hi> own armour) was slaine on the place, Captaine <hi>Aston</hi> was taken prisoner, and brought aboard the <hi>James</hi> on Tuesday morning, and the third Captaine escaped; the dead that then fell were left upon the place, the Enemy declaring that they would bury them and take in the Towne together. By this <hi>Aston</hi> I received notice that the besiegers were about 2500. Horse and Foote, that Prince <hi>Maurice,</hi> the Lord <hi>Paulet</hi> and Sir <hi>Iohn Barclay</hi> were in the leager.</p>
+            <p>The Garrison having by this successe received encouragement, they resolved to prosecute their former intention of sallying on the Enemy; they being much tired out with continuall duty, and the provisions spared out of the Ships, being not sufficient for many days supply the Souldiers spending about 1200 waight of Bread a day, and there being about 4000 Soules in the Towne.</p>
+            <p>In pursuance therefore of the former resolution, I sent the 300 men on shore with safety one Tuesday night, halfe of them being sent before hand into some small vessells that lay neere the Town. The same Tuesday I resolved before the time determined for sal<g ref="char:EOLhyphen"/>lying (which was to be communicated to us by a signe from Cap<g ref="char:EOLhyphen"/>taine <hi>Davies</hi> Fort) to send all our Ship-boates (filled with men) as also the Expedition and the Warwick frigat to ply to and againe on the East shore (there being severall vallies at <hi>Charmouth</hi> Brid<g ref="char:EOLhyphen"/>port, and other places within five or six miles of <hi>Lime,</hi> that gave an opportunity of landing) hoping that by giving an Alarm there, I might draw off from about the Town the Enemies horse, (which the Townes-men most feared) and hapily some of their Foote, whereby the besieged might gaine the more advantage. Yesterday I accordingly sent out the Ships and Boats, and by an Alarme given, obtained that which was in our designe, foure or five Troops of horse, and some hundreds of foote giving a continuall attendance upon motion of our Boats. The Enemy it seemes was upon obser<g ref="char:EOLhyphen"/>vation of our Boates, mistaken in our purposes, conceiving that our Boats had drawn off some of the Garrison, intending to land them on the East-shore, for the getting of provision into the Town, or for falling upon their Reire. Hereby supposing the Towne to be weakned, they resolved upon another storming, which began yesterday
+<pb n="4" facs="tcp:155162:4"/>about foure of the clock neere to the time agreed on for sallying; They made three assaults, and did twice make an orderly retreate. The third time they came on with asmuch bravery and resoluti<g ref="char:EOLhyphen"/>on as could be in Souldiers, which was as gallantly receive by the Townes-men. The fight was continued with extreame violence from about 6 of the clock at night for two houres, there being a continued volley of great shot and small shot.</p>
+            <p>The issue was, their fell of the enemy (by computation of some that came this day aboard) 400. and of the Garrison there wa<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shine and hurt only 6 or 7 men. The last night and this morning there is in the Towne a more then ordinary silence. Thus have I repre<g ref="char:EOLhyphen"/>sented to your Lordship the state of this Towne, hoping that some speedy course will be taken for their reliefe. Their fidelity and courage god hath much honoured, and it is pitty the delayi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g of supply should hazard the least blunting of their resolution. There be men of very considerable reputation in the Towne, who will be able (if freed from this siege) to serve the state, by raysing a good body of men in these parts. If <hi>Lime</hi> be lost, it will have a very ill influence, the inclination of these parts depending on the successe of that Towne, which the Enemy values not so much for it selfe as for the men that are in it, who if at liberty, will quickly get a strength together, which the Country will be well disposed to close withall. It will be an act very worthy the Houses of Parlia<g ref="char:EOLhyphen"/>ment to hasten towards them some Forces by Land, and some victualls and Ammunition by Sea; that such pretious and distres<g ref="char:EOLhyphen"/>sed spirits may not become a prey to Famine, or to a cruell Enemy. So desiring your Lordship to communicate this to the House of Lords together with a tender of my humble service I commend your Lordship, and all your councells to the blessing of Heaven resting.</p>
+            <closer>
+               <dateline>
+                  <hi>From aboard His Majesties Ship the Iames at an Anchor before Lime-Regis,</hi>
+                  <date>30 <hi>May</hi> 1644.</date>
+               </dateline>
+               <signed>Your Lordships humble servant. <hi>WARWICK.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="daily_reports">
+            <pb n="5" facs="tcp:155162:4"/>
+            <head>A true and perfect Diurnall of all Passages since Colonell <hi>Weres</hi> comming to the Towne of Lyme Regis.</head>
+            <p>
+               <label>
+                  <hi>Febr.</hi> 21.</label> COlonell <hi>Were</hi> landed at Lyme Regis.</p>
+            <p>
+               <label>
+                  <hi>Febr.</hi> 22</label> All his Forces, with the Garrison of the towne, were drawne forth on Lyme-hill, from whence a party was sent to Studcomb-house, and Axmouth, under the command of Captaine <hi>Peyto,</hi> to secure those places.</p>
+            <p>
+               <label>
+                  <hi>Febr.</hi> 23</label> Colonell <hi>Were</hi> with his Officers and 300 foot advanced to Stud<g ref="char:EOLhyphen"/>combe-house, with a resolution to have fallen upon Colleton, but was commanded backe by the Governour of Lyme, as by his Letters will appeare.</p>
+            <p>
+               <label>
+                  <hi>March</hi> 3.</label> Captaine <hi>Townsend</hi> drew out by command of the Councell of VVarre 100 Firelocks, and fell upon Bridport, where he surprized 130 horse, and met with his Colonell and Captaine <hi>Pine</hi> at Chid<g ref="char:EOLhyphen"/>wick hill, where they were with horse and foot to secure his re<g ref="char:EOLhyphen"/>treat.</p>
+            <p>
+               <label>
+                  <hi>March</hi> 4</label> Severall Messengers came out of Devonshire to informe that the Country was in Armes, and desired assistance from the Councell of warre at Lyme, of horse and ammunition, which by a generall con<g ref="char:EOLhyphen"/>sent was granted unto them, Major <hi>Butler</hi> being commander in chiefe, and some other Captains sent with him; they advanced to Hemiock, where they were set upon by Major <hi>Carre,</hi> who lost his life, and divers of his Souldiers.</p>
+            <pb n="6" facs="tcp:155162:5"/>
+            <p>
+               <label>
+                  <hi>March</hi> 5.6.</label> The enemy drew out of their Garrison of Arminster, and Colle<g ref="char:EOLhyphen"/>ton, Chard, Exon, Taunton, and Bridgewater, what forces they could to fall on Hemiock.</p>
+            <p>
+               <label>
+                  <hi>March</hi> 9</label> Colonell <hi>VVare</hi> to divert their besieging of Hemiock, fell upon Collington with 300 men, and tooke that Towne, 300 Armes, 250 prisoners, all their Magazine, three Colours, 12 Drums, beside divers prisoners of note, and was advancing to the reliefe of He<g ref="char:EOLhyphen"/>miock, but met with the ill news of his Officers being surpri<g ref="char:EOLhyphen"/>zed before, which hindred his resolution and caused him to re<g ref="char:EOLhyphen"/>treat to Studcombe-house againe, where he continued till Aprill 20. every day or night having an alarme or fight with the enemy; and was called three times to give assistance to the Towne of Lyme-Regis, and to have fallen upon a quarter of the enemys: Which was accordingly performed through tedious marches by him and his souldiers, though little use made of them when they came there, which was no small discouragement to the Souldiers.</p>
+            <p>
+               <label>
+                  <hi>April.</hi> 20.</label> Our Scouts discerned the enemy on Rode-hill, which in the evening advanced towards Uplyme-hill, and there stood all the night, onely a party came downe, beset Hay and Coly-house, in so much that our men were inforced to retreat unto the Towne of Lyme-Regis.</p>
+            <p>
+               <label>
+                  <hi>April.</hi> 21</label> The enemy approached within Pistoll-shot of our Line, and played their great and small shot very hot, though but to little pur<g ref="char:EOLhyphen"/>pose. This day Colonell <hi>VVare</hi> commanded the major part of his officers and souldiers from Studcombe-house, whose passage proved very difficult and dangerous; a party of the enemies foot and horse skirmishing with them, it made their passage good without the losse of any, onely some men wounded. This night the enemy raised a battery westward, which did much anoy us. From thence came many great shot, insomuch that Captaine <hi>Marsh</hi> was beaten out of his Fort, and he himselfe afterwards slaine. This evening we sent to Poole to acquaint them with our sad condition. This day Studcombe-house was taken, when we left it there was no want of any thing, and thought it as tenable as the Towne of Lyme, and why Captaine <hi>Peyto</hi> should surrender it upon such sleight termes is admired:</p>
+            <pb n="7" facs="tcp:155162:5"/>
+            <p>
+               <label>
+                  <hi>April.</hi> 23</label> We sallyed out, split one of their guns, killed to the number of 100. tooke 30. prisoners, one Lieutenant one Ensigne. Here C. <hi>Bill<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> was kild (an Enemie) Captaine <hi>Wood</hi> Commander of the forlorne hope was wounded: We retreated with small losse, but were enforced to leave their guns behind us. This night a battery was raised in Coly medow.</p>
+            <p>
+               <label>
+                  <hi>April.</hi> 24.25.26.</label> This day the enemy stormed with Ordnance, did little hurt; This day also two Dunkirk men of Warre looked on us; This day our ship was betrayed, wherein we lost prisoners of some worth. Very little powder by this time left; Some comfort by shipping.</p>
+            <p>
+               <label>
+                  <hi>April.</hi> 27</label> From Coly worke came Granadoes into the Towne which did little hurt: This night they raised another worke on the East, which beare downe Captaine <hi>Novell's</hi> Fort, and did some hurt to the Towne.</p>
+            <p>
+               <label>
+                  <hi>April.</hi> 28.</label> This morning the enemy offered to storme us but their souldi<g ref="char:EOLhyphen"/>ers had no minde to such sport, neverthelesse they bestowed pow<g ref="char:EOLhyphen"/>der and shot freely on us, insomuch as their firing seemed a con<g ref="char:EOLhyphen"/>tinuall blaze, which was discovered by Captaine <hi>Semaster</hi> and Captaine <hi>Iones,</hi> then of Portland point, who made all possible speede to releeve us. The sight of these two ships begat new life in our almost tyred souldiers; they supplyed us with powder, match, and bullet, and other provisions which wee much wan<g ref="char:EOLhyphen"/>ted. This day the enemies Ordnance played very hot.</p>
+            <p>
+               <label>
+                  <hi>April.</hi> 29.</label> These ships landed to serve us 100. men: The enemy seemed not at all to be daunted, but fired-very hot, and made their ap<g ref="char:EOLhyphen"/>proach very neare our line: They shot fire arrowes, which did not hurt nor affright any.</p>
+            <p>
+               <label>
+                  <hi>April.</hi> 30.</label> This day with the bold Seamen and others we sallyed out once more, laid hold of their Ordnance, spoyled one, killed many of the enemie, and retreated with some losse. Major <hi>Harrington</hi> slaine by one of our owne men, yet the losse on the enemies part was so great, that the water which served the Towne was turned into blood.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 1.</label> They gave us a very thundring Alarm in the morning, and now they began to make their Fort royall against C. <hi>Davies</hi> Fort.</p>
+            <pb n="8" facs="tcp:155162:6"/>
+            <p>
+               <label>
+                  <hi>May</hi> 3.4.5</label> The Enemy lay very silent, but the weather tempestuous in so<g ref="char:EOLhyphen"/>much that we doubted the safety of our shipping.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 6</label> The Enemy lay very silent, but in the Evening stormed us ve<g ref="char:EOLhyphen"/>ry gallantly to the losse on their partie of at least 100 men or more. In this storme they lost Col. <hi>Blewet,</hi> and as farre as we can heare Col. <hi>Strangwates,</hi> four Captaines, Cap. <hi>Paulet,</hi> Cap. <hi>Mollineux</hi> taken, the Enemy was silent the rest of the night</p>
+            <p>
+               <label>
+                  <hi>May</hi> 7</label> This day the Enemy sent to demand the body of Colonel <hi>Blewet</hi> and desired liberty to fetch off their dead, which was accordingly granted and put in execution, this took up most part of the day, so that there was scarce a stroke on either side till night, and the night proved very silent.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 8</label> They drew their Army into two bodies, which kept us in perpetuall Alarmes all the afternoone and the night. This day also came in C. <hi>Cock</hi> with his ship which afforded us some relief both with men and provision. This Evening <hi>C. Pawlet</hi> dyed with the wound that he received in storming.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 9</label> This day proved as silent, as the weather, very quiet, only in the afternoone the Ordinance thundred on both sides, and our small shot ratled bravely.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 10</label> This day the Enemy began to make their approaches very neare our lyne in the Westerne part of the Towne, but Lieure<g ref="char:EOLhyphen"/>nant Col. <hi>Blake</hi> sent out a partie in the night which made them remove surther off.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 11.</label> This morning came good relief, 300 men by shipping sent by Sir William <hi>Waller</hi> from <hi>Portsmouth,</hi> and now the Enemy spent their great shot very free upon all quarters especially upon the boats which landed any friends and upon C. <hi>Davies</hi> Fort, in so<g ref="char:EOLhyphen"/>much that his Gunner and two other men were slaine with a great shot, but the Captaine (who hath behaved himself ever gallant<g ref="char:EOLhyphen"/>ly) not any of his Souldiers were any thing at all daunted there<g ref="char:EOLhyphen"/>with.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 12</label> This day the Enemy shot in many fire balls, which did no hurt at all. This day was C. <hi>Iones</hi> dispatcht to <hi>Portsmouth</hi> with Let<g ref="char:EOLhyphen"/>ters to Sir William <hi>Waller</hi> and others to the Committee, This day the Enemy began two strong Batteries very neare our lyne on
+<pb n="9" facs="tcp:155162:6"/>the West, and two more we raised against them which did some<g ref="char:EOLhyphen"/>what trouble them.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 13</label> This day we playd on their Batteries with our Ordnance very hot, did some mischiefe, small shot ratled on both sides, with little losse on our part.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 14</label> This day the enemy was very silent: in the afternoon we sent out a party for discovery, which roused them: we found their quatters strongly manned: and about midnight another pattee was sent upon a contrary quarter, which did some execution upon them, and retreated without losse.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 15</label> This day we received a Culvering cut from Captaine <hi>Semaster</hi> which we planted in one of our new batteries.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 16.</label> The enemy endeavoured to make up their breaches by our Ordnance, but could not, being continually battered.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 17</label> This day the Ordnance we thought drawne off, began to speak, which had not spoke in 3. dayes. This night they made a line in opposition to outs North-ward. These two dayes they played their Ordnance very thick upon the Cobb.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 18</label> This day wee sallyed out and entred their Fort royall, split their gunne, tooke 20. prisoners, beate them home to their grand Quarter, and returned with little losse. In the evening they plaid hot againe upon the Cobb, and continued making up of their Trenches.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 19</label> This day there was a testation of arms for the space of an houre, for the fetching off three which were lost in the fally. Our Ord<g ref="char:EOLhyphen"/>nance slew many at their grand Quarter. This night proved ve<g ref="char:EOLhyphen"/>ry silent.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 20</label> This morning the enemy came by Colonell <hi>Blakes</hi> quarter, &amp; approached neare the Cobb, insomuch that they tooke off a ships colours from her sterne, and afterwards fetched two horses close to a partee that was sent out to rescue them.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 21</label> This day the enemie intrenched themselves on the West part of the Towne neare the Seaside, shot many great shots into the Cobb. This night a halfe moone brest was raised against Cap<g ref="char:EOLhyphen"/>taine <hi>G<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tch</hi> his Fort, and approached neare th<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> part of the line.</p>
+            <pb n="10" facs="tcp:155162:7"/>
+            <p>
+               <label>
+                  <hi>May</hi> 22</label> This day a partee of the enemies foote faced the Cobb, and af<g ref="char:EOLhyphen"/>ter some few shots entred it, but were againe beaten out of it by a partee of ours which issued out. Another partee at the same time issuing out, entred one of their workes, but could not keepe it, by reason of the evening approaching, retreated with small losse, only Captaine <hi>Pyne</hi> (who hath ever behaved himselfe very well) was dangerously wounded. This evening proved very silent, by reason of their fetching out such things as were in the ships which they that evening had burnt.</p>
+            <p>
+               <label>
+                  <hi>May</hi> 23</label> This day the Earle of Warwicke arrived here, which was a great encouragement to our souldiers. This evening the Gover<g ref="char:EOLhyphen"/>nour and Lieutenant Colonell <hi>Blake</hi> were sent aboord to co<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with his Lordship.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
